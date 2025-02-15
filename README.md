@@ -25,7 +25,9 @@ Output: displays a graph with the GPR predictions.
 
 Process flow
 
-![generic-deep-code](https://github.com/user-attachments/assets/b3969646-3c6c-4a32-938b-8fd10475209f)
+![Code-Deep-Active](https://github.com/user-attachments/assets/490509a5-1baa-449b-a162-f2045f3bf5cc)
+
+
 
 
 
